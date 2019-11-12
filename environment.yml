@@ -1,0 +1,16 @@
+name: imod-dsd
+channels:
+  - conda-forge
+dependencies:
+  - imod
+  - xarray
+  - pandas
+  - numpy
+  - matplotlib
+  - dask
+  - geopandas
+  - python-graphviz
+  - flopy
+  - rasterio
+  - numba
+  - affine
