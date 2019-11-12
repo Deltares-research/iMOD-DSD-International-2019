@@ -14,4 +14,4 @@ dependencies:
   - numba
   - affine
   - pip:
-    git+https://gitlab.com/deltares/imod/imod-python.git
+    - git+https://gitlab.com/deltares/imod/imod-python.git
