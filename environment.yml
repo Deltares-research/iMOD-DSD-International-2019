@@ -2,7 +2,6 @@ name: imod-dsd
 channels:
   - conda-forge
 dependencies:
-  - imod
   - xarray
   - pandas
   - numpy
@@ -14,3 +13,5 @@ dependencies:
   - rasterio
   - numba
   - affine
+  - pip:
+    git+https://gitlab.com/deltares/imod/imod-python.git
